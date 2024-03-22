@@ -1,4 +1,5 @@
 /home/cuong2k2/robot_ws/install/my_package/share/my_package/launch/listener.launch.py
+/home/cuong2k2/robot_ws/install/my_package/share/my_package/launch/robot_state_publisher.launch.py
 /home/cuong2k2/robot_ws/install/my_package/share/my_package/launch/talker.launch.py
 /home/cuong2k2/robot_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
 /home/cuong2k2/robot_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
